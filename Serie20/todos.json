@@ -1,0 +1,6 @@
+[
+  {"id": 1, "titre": "Apprendre Python", "fait": false},
+  {"id": 2, "titre": "Persister les données en JSON", "fait": true},
+  {"id": 3, "titre": "Migrer vers SQLite", "fait": false}
+]
+

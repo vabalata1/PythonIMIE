@@ -1,0 +1,11 @@
+[INFO] 2025-12-01 10:00:00 Application démarrée
+[DEBUG] 2025-12-01 10:00:01 Détail technique A
+[WARNING] 2025-12-01 10:00:02 Mémoire proche du seuil
+[ERROR] 2025-12-01 10:00:03 Erreur critique module X
+[DEBUG] 2025-12-01 10:00:04 Détail technique B
+[INFO] 2025-12-01 10:00:05 Requête traitée
+[DEBUG] 2025-12-01 10:00:06 Détail technique C
+[WARNING] 2025-12-01 10:00:07 Connexion lente
+[INFO] 2025-12-01 10:00:08 Opération réussie
+[ERROR] 2025-12-01 10:00:09 Échec authentification
+

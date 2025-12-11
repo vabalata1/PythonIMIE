@@ -1,0 +1,8 @@
+{
+  "debug": true,
+  "version": "1.0.0",
+  "max_connexions": 10,
+  "services": ["auth", "api", "web"],
+  "theme": "light"
+}
+
